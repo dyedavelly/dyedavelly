@@ -6,6 +6,8 @@ This is Dharani Yedavelly. Welcome to my Github Page:
 
 * 🔭 I’m currently working on [Connect](https://github.com/dyedavelly/connect)
 * 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dharaniy/)
+* 🎓 Certified Professional in Accessibility Core Competencies (CPACC): I am proud to hold a CPACC certification, which demonstrates my knowledge in accessibility and my commitment to creating inclusive 
+     environments for everyone.
 * 💬 Ask me about my background!
 * ⚡ Fun facts about me:
     - 🧘‍♀️ Yoga Enthusiast: I love practicing yoga and finding balance in my life.
