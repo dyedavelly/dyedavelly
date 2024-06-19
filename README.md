@@ -11,6 +11,7 @@ This is Dharani Yedavelly. Welcome to my Github Page:
     - 🧘‍♀️ Yoga Enthusiast: I love practicing yoga and finding balance in my life.
     - 🌱 Green Thumb: Gardening is one of my passions. I enjoy nurturing plants and watching them grow.
     - 🥗 Cooking: I love making healthy dishes that are both delicious and nutritious.
+    - 🔨 DIY Woodworking: I enjoy creating DIY projects with wood, turning simple pieces into beautiful and functional items. My home is filled with handmade furniture like beds, coffee tables and many more.
 
 Languages and Tools
 ---------------
